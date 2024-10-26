@@ -2,11 +2,11 @@
 
 ###
 
-  > Estudando Ciência e Tecnologia
+  > Estudando Análise e Desenvolvimento de Sistemas
   >
   > Trabalhando com TI
   > 
-  > Aspirante a cybersecurity - Blue Team
+  > Aspirante a cybersecurity
   >
   > Developer (HTML, CSS, JS e Python) 
 
