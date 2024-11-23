@@ -10,8 +10,8 @@ I am an IT person passionate about technology and studying Systems Analysis and 
 
 ## 💻 My Skills
 
-**Schedule:**
-- Python, Dart, Flutter and C
+**Programming:**
+- C, Python, Dart and Flutter
 
 **Cloud:**
 - Amazon Web Services (AWS) and Azure
