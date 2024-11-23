@@ -1,14 +1,20 @@
-<img align="left" height="380" src="https://i.pinimg.com/564x/77/7c/64/777c645d10459ed2c7496c2a6a903fbc.jpg"  />
+# Welcome to my profile! 👋
 
-###
+## 🚀 About Me
+I am an IT person passionate about technology and studying Systems Analysis and Development. Most of my time is dedicated to programming and IoT
 
-  > Estudando Análise e Desenvolvimento de Sistemas
-  >
-  > Trabalhando com TI
-  > 
-  > Aspirante a cybersecurity
-  >
-  > Developer (HTML, CSS, JS e Python) 
+- 👋 Hello, I'm Borakove
+- 👀 I'm interested in Back-end and Mobile
+- 🌱 I'm currently learning Dart, C and Python
+- ⚗️ I want to work on challenging projects for a career beginner
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=borakove&show_icons=true&theme=dracula)
+## 💻 My Skills
 
+**Schedule:**
+- Python, Dart, Flutter and C
+
+**Cloud:**
+- Amazon Web Services (AWS) and Azure
+
+**Others:**
+- HTML, CSS, JS, Firebase, Linux, Git/Github
