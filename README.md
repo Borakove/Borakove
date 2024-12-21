@@ -12,11 +12,9 @@ I am an IT person passionate about technology and studying Systems Analysis and 
 
 ```javascript
 const mySkills = {
-    programming: ["C", "Python", "Dart", "Flutter"],
-    cloud: ["AWS", "Azure"],
+    programming: ["C", "Python"],
     technologies: {
         web: ["HTML", "CSS", "JavaScript"],
-        database: ["Firebase"],
         os: ["Linux"],
         tools: ["Git", "GitHub"]
     }
