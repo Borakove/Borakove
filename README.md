@@ -12,7 +12,7 @@ I am an IT person passionate about technology and studying Systems Analysis and 
 
 ```javascript
 const mySkills = {
-    programming: ["C", "Python"],
+    programming: ["C", "Python", Java],
     technologies: {
         web: ["HTML", "CSS", "JavaScript"],
         os: ["Linux"],
