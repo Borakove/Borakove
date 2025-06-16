@@ -1,37 +1,25 @@
-# Welcome to my profile! 👋
+## Hi there 👋
 
-## 🚀 About Me
-I am an IT person passionate about technology and studying Systems Analysis and Development.
+🇧🇷 country: Brazil • 💼 Career Beginner • 🎯 Focused on DevOps and Cybersecurity
 
-- 👋 Hello, I'm Borakove
-- 👀 I'm interested in Back-end and Cyber
-- 🌱 I'm currently learning C and Python
-- 💼 I want to work on challenging projects for a career beginner
+I am an IT person passionate about technology and currently studying **Systems Analysis and Development**.
 
-## 💻 My Skills
+👋 Hello, I'm **Borakove**  
+👀 I'm interested in **DevOps** and **Cybersecurity**  
+🌱 I'm currently learning **C**, **Python**, and **Java**  
+💼 I want to work on challenging projects to grow as a professional
 
-```javascript
-const mySkills = {
-  programming: ["C", "Python", "Java"],
-  technologies: {
-    web: ["JavaScript"],
-    os: ["Linux"],
-    tools: ["Git", "GitHub"]
-  }
-}
-```
+---
 
-## 🛠️ Technologies & Tools
-<div align="left"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </div>
+## 🛠️ Languages and Tools
 
-## 📊 GitHub Stats
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/>
+</p>
 
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Borakove&show_icons=true&theme=dark)
-  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Borakove&layout=compact&theme=dark)
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Borakove&theme=dark)](https://git.io/streak-stats)
-
-</div>
+---
