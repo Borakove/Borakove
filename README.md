@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🇧🇷 country: Brazil • 💼 Career Beginner • 🎯 Focused on DevOps and Cybersecurity
+![Country](https://img.shields.io/badge/%F0%9F%8C%90%20%20country-Brasil-blue)
 
 I am an IT person passionate about technology and currently studying **Systems Analysis and Development**.
 
@@ -23,3 +23,4 @@ I am an IT person passionate about technology and currently studying **Systems A
 </p>
 
 ---
+
