@@ -7,26 +7,28 @@ I am an IT person passionate about technology and currently studying **Systems A
 ---
 
 ## 🚀 About Me
-- 👋 Hello, I'm **Borakove**
-- 🔒 Interested in **DevOps and Cybersecurity**
-- 🐍 Currently learning **C, Python, and Java**
-- 📈 I want to work on challenging projects to grow as a professional
+- 👋 Hello, I'm **Borakove**  
+- 🔒 Interested in **DevOps and Cybersecurity**  
+- 🐍 Currently learning **C, Python, and Java**  
+- 📈 I want to work on challenging projects to grow as a professional  
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Statistics  
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Borakove&show_icons=true&theme=radical&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Borakove&layout=compact&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com?user=Borakove&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Borakove&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Borakove&layout=compact&theme=tokyonight&hide_border=true)  
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Borakove&theme=tokyonight&hide_border=true)  
 
 </div>
 
 ---
 
-## 🛠️ Languages and Tools
+## 🛠️ Languages and Tools  
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
@@ -36,3 +38,7 @@ I am an IT person passionate about technology and currently studying **Systems A
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
 </p>
+
+---
+
+⭐️ From [Borakove](https://github.com/Borakove)
