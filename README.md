@@ -22,7 +22,6 @@ I am an IT person passionate about technology and currently studying **Systems A
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Borakove&layout=compact&theme=tokyonight&hide_border=true)  
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Borakove&theme=tokyonight&hide_border=true)  
 
 </div>
 
